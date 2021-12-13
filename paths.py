@@ -1,0 +1,6 @@
+pricing_hackathon_checks_test = './pricing_hackathon_checks_test.csv'
+pricing_hackathon_checks_train = './pricing_hackathon_checks_train.csv'
+pricing_hackathon_hierarchy = './pricing_hackathon_hierarchy.csv'
+pricing_hackathon_prices_test = './pricing_hackathon_prices_test.csv'
+pricing_hackathon_prices_train = './pricing_hackathon_prices_train.csv'
+pricing_hackathon_shops = './pricing_hackathon_shops.csv'
